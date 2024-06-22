@@ -1,1 +1,16 @@
- 
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+span{
+    font-family:'Oswald';
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&family=Oswald:wght@200..700&display=swap');
+p{
+    font-family:'Arimo';
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Arimo:ital,wght@0,400..700;1,400..700&family=Bebas+Neue&family=Oswald:wght@200..700&display=swap');
+
+h1{
+    font-family:'Oswald';
+}
